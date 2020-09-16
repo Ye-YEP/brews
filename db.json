@@ -1,102 +1,102 @@
 [
-{
-    "id":2,
-    "name":"Avondale Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.avondalebrewing.com",
-},
-{
-    "id":44,
-    "name":"Trim Tab Brewing",
-    "country":"United States",
-    "website_url":"http://www.trimtabbrewing.com",
-},
-{
-    "id":46,"name":"Yellowhammer Brewery",
-    "country":"United States",
-    "website_url":"http://www.yellowhammerbrewery.com",
-},
-{
-    "id":55,"name":"Bearpaw River Brewing Co",
-    "country":"United States",
-    "website_url":"http://bearpawriverbrewing.com",
-},
-{
-    "id":76,"name":"King Street Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.kingstreetbrewing.com",
-},
-{
-    "id":94,"name":"1912 Brewing",
-    "country":"United States",
-    "website_url":"http://www.1912brewing.com",
-},
-{
-    "id":98,"name":"Bad Water Brewing",
-    "country":"United States",
-    "website_url":"http://www.badwaterbrewing.com",
-},
-{
-    "id":104,"name":"BJs Restaurant \u0026 Brewery - Chandler",
-    "postal_code":"85226-5175",
-    "country":"United States",
-    "website_url":"http://www.bjsrestaurants.com",
-},
-{
-    "id":127,"name":"Dragoon Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.dragoonbrewing.com",
-},
-{
-    "id":141,"name":"Grand Canyon Brewing Company",
-    "country":"United States",
-    "website_url":"http://www.grandcanyonbrewingco.com",
-},
-{
-    "id":163,"name":"Mudshark Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.mudsharkbrewingco.com",
-},
-{
-    "id":182,"name":"Richter Aleworks",
-    "country":"United States",
-    "website_url":"http://www.richteraleworks.com",
-},
-{
-    "id":187,"name":"SanTan Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.santanbrewing.com",
-},
-{
-    "id":198,"name":"State 48 Brewery",
-    "country":"United States",
-    "website_url":"",
-},
-{
-    "id":219,"name":"Wren House Brewing Company",
-    "country":"United States",
-    "website_url":"http://www.wrenhousebrewing.com",
-},
-{
-    "id":225,"name":"Brick Oven Pizza Co / Brick \u0026 Forge Brewing",
-    "country":"United States",
-    "website_url":"http://www.brickovenpizzacompany.com",
-},
-{
-    "id":235,"name":"Diamond Bear Brewing Co",
-    "country":"United States",
-    "website_url":"http://www.diamondbear.com",
-},
-{
-    "id":247,
-    "name":"Lost Forty Brewing",
-    "country":"United States",
-    "website_url":"http://www.lost40brewing.com/",
-},
-{
-    "id":253,
-    "name":"Rapp's Barren Brewing Company",
-    "country":"United States",
-    "website_url":"http://www.rappsbarrenbrewing.com",
-}
+    {
+        "id":2,
+        "name":"Avondale Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.avondalebrewing.com"
+    },
+    {
+        "id":44,
+        "name":"Trim Tab Brewing",
+        "country":"United States",
+        "website_url":"http://www.trimtabbrewing.com"
+    },
+    {
+        "id":46,"name":"Yellowhammer Brewery",
+        "country":"United States",
+        "website_url":"http://www.yellowhammerbrewery.com"
+    },
+    {
+        "id":55,"name":"Bearpaw River Brewing Co",
+        "country":"United States",
+        "website_url":"http://bearpawriverbrewing.com"
+    },
+    {
+        "id":76,"name":"King Street Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.kingstreetbrewing.com"
+    },
+    {
+        "id":94,"name":"1912 Brewing",
+        "country":"United States",
+        "website_url":"http://www.1912brewing.com"
+    },
+    {
+        "id":98,"name":"Bad Water Brewing",
+        "country":"United States",
+        "website_url":"http://www.badwaterbrewing.com"
+    },
+    {
+        "id":104,"name":"BJs Restaurant Brewery - Chandler",
+        "postal_code":"85226-5175",
+        "country":"United States",
+        "website_url":"http://www.bjsrestaurants.com"
+    },
+    {
+        "id":127,"name":"Dragoon Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.dragoonbrewing.com"
+    },
+    {
+        "id":141,"name":"Grand Canyon Brewing Company",
+        "country":"United States",
+        "website_url":"http://www.grandcanyonbrewingco.com"
+    },
+    {
+        "id":163,"name":"Mudshark Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.mudsharkbrewingco.com"
+    },
+    {
+        "id":182,"name":"Richter Aleworks",
+        "country":"United States",
+        "website_url":"http://www.richteraleworks.com"
+    },
+    {
+        "id":187,"name":"SanTan Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.santanbrewing.com"
+    },
+    {
+        "id":198,"name":"State 48 Brewery",
+        "country":"United States",
+        "website_url":""
+    },
+    {
+        "id":219,"name":"Wren House Brewing Company",
+        "country":"United States",
+        "website_url":"http://www.wrenhousebrewing.com"
+    },
+    {
+        "id":225,"name":"Brick Oven Pizza Co / Brick Forge Brewing",
+        "country":"United States",
+        "website_url":"http://www.brickovenpizzacompany.com"
+    },
+    {
+        "id":235,"name":"Diamond Bear Brewing Co",
+        "country":"United States",
+        "website_url":"http://www.diamondbear.com"
+    },
+    {
+        "id":247,
+        "name":"Lost Forty Brewing",
+        "country":"United States",
+        "website_url":"http://www.lost40brewing.com/"
+    },
+    {
+        "id":253,
+        "name":"Rapp's Barren Brewing Company",
+        "country":"United States",
+        "website_url":"http://www.rappsbarrenbrewing.com"
+    }
 ]
